@@ -1,0 +1,18 @@
+[
+  {
+    "label": "File",
+    "submenu": [
+      { "label": "Exit", "role": "quit" }
+    ]
+  },
+  {
+    "label": "Tools",
+    "submenu": [
+      { "label": "Open Dev Tools", "role": "toggleDevTools" },
+      { "label": "Reload", "role": "reload" },
+      { "label": "Force Reload", "role": "forceReload" },
+      { "label": "Minimize", "role": "minimize" }
+
+    ]
+  }
+]

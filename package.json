@@ -1,0 +1,9 @@
+{
+	"name": "click2edit",
+	"main": "index-named.js",
+	"notes": "No comments allowed in JSON.",
+	"dependencies": {
+		"electron-reloader": "^1.2.3",
+		"ini": "^5.0.0"
+	}
+}
