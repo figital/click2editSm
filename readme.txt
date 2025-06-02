@@ -5,7 +5,7 @@ rando ideas
 
 
 ** AH YES ... i want to embed this into web pages again.
-this code is still on main ITS website lol
+
 
 * are there settings we could put into a settings.ini file?
 
@@ -22,4 +22,4 @@ OLD NOTES ...
 (or just list things from this directory from python http.server or nodejs on the backend. although that is not the point of this demo)
 Code will hot reload. just hardcoding the file list is fine ... because that is the main thing we are trying to demo.
 
-i kind of want to redirect logging from index.cfm to the index.html debugger. especially handy for hot reloads.
+i kind of want to redirect logging from index.xxx to the index.html debugger. especially handy for hot reloads.
